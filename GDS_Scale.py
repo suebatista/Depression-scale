@@ -1,9 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
-
 #GDS - Geriatric Depression Scale
 
 print ("Are you basically satisfied with your life?")
@@ -59,6 +53,3 @@ elif score >=7 and score <=10:
     print ("You have symptoms of light depression")
 else:
     print ("You have symptoms of severe depression")
-
-
-# 
