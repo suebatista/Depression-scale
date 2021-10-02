@@ -6,5 +6,9 @@ The GDS scale is a brief, 15-item questionnaire in which participants are asked 
  
  ![Image description](https://i.imgur.com/1JKyNEl.gif)
 
+
+ ![Image description](https://github.com/suebatista/Depression-scale/blob/master/gds_gif.gif)
+
+
 References:
 <https://consultgeri.org/try-this/general-assessment/issue-4.pdf>
